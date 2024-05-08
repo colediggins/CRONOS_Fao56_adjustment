@@ -1,7 +1,7 @@
 ************************************************************************
 pyfao56: FAO-56 Evapotranspiration in Python
 Parameter Data
-Timestamp: 05/07/2024 22:10:34
+Timestamp: 05/08/2024 05:16:53
 ************************************************************************
 Comments: 
 ************************************************************************
@@ -16,7 +16,7 @@ Comments:
    1.0000 hmax, Plant Height Maximum (m) (FAO-56 Table 12)
    0.5665 thetaFC, Vol. Soil Water Content, Field Capacity (cm3/cm3)
    0.1423 thetaWP, Vol. Soil Water Content, Wilting Point (cm3/cm3)
-   0.3000 theta0, Vol. Soil Water Content, Initial (cm3/cm3)
+   0.2500 theta0, Vol. Soil Water Content, Initial (cm3/cm3)
    0.1000 Zrini, Rooting Depth Initial (m)
    1.6000 Zrmax, Rooting Depth Maximum (m) (FAO-56 Table 22)
    0.5500 pbase, Depletion Fraction (p) (FAO-56 Table 22)
