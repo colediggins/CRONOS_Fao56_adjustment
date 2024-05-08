@@ -1,5 +1,5 @@
 # CRONOS_Fao56_adjustment
-<!--img src="https://raw.githubusercontent.com/soilwater/crnpy/main/docs/img/logo/crnpy-logo.png" alt="CRNPY logo" width="250"/-->
+<img src="https://github.com/colediggins/CRONOS_Fao56_adjustment/blob/main/images/station.jpg" alt="gen1" width="250"/-->
 
 ## Overview
 This repository is to serve as the submittal of my semester project for the class "Soil Physics Theory" at Oklahoma State University. Over the course of this project I want to take in-field soil moisture data and use it to train an FAO 56 based model to effectively predict soil moisture in crop fields.
