@@ -10,6 +10,7 @@ The Cropland Observatory Nodes (CRONOS) were developed as a joint venture betwee
 -  A downward-facing camera took RGB images which were processed with Canopeo to record green canopy cover (Range Cam 4G, Barn Owl).
 -  All-in-one weather stations were used to measure many atmospheric variables (ClimaVue50, Campbell Scientific).
 <img src="https://github.com/colediggins/CRONOS_Fao56_adjustment/blob/main/images/CRONOS_gen3.jpg" width="250" height="250">
+
 ## Objectives
 
 The combination of these three sensor types allows us to monitor a multitude of values along the plant-soil-atmosphere continuum. However the data these stations produce is only applicable for the time of collection and can't be used to make predictions of cropping systems in their current state. Using this repository I aim to use python implementation of fao56 to model out a wheat cropping season and compare it with known data. After correction I then hope to use the fao56 model to estimate crop water use for a winter wheat season in central Oklahoma.
@@ -22,8 +23,9 @@ The research site the CRONOS station was deployed on is located on the Oklahoma 
 ## Key Features
 The key features of this Repository are as follows:
 
-- A decent way of uploading CRONOS data to Python which can be refined with future use
+- The preprocessed data of the CRONOS stations via Matlab
 - An attempt to utilize said data in the Fao 56 model which was eventually a failure however some of the site parameters were input and used.
+- a showing of how the Fao56 could be used and through ome of the machine learning concepts outlined using AI, possibly trained using known data, we would possibly be able to automate predicted ET of the soil.
 - A proof of concept on AI and where it stands in the coding and modeling world
 
 ## Takeaways
